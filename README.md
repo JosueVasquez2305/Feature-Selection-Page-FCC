@@ -5,7 +5,7 @@ An interactive, retro-futuristic terminal interface inspired by the iconic **Pip
 Built as part of the **freeCodeCamp Responsive Web Design Certification**.
 
 ## 🚀 Live Demo
-    [Live demo click here](https://JosueVasquez2305.github.io/Feature-Selection-Page-FCC/)
+ [Live demo click here](https://JosueVasquez2305.github.io/Feature-Selection-Page-FCC/)
 
 
 ## 📸 Preview
