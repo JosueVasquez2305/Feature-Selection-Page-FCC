@@ -9,7 +9,7 @@ Built as part of the **freeCodeCamp Responsive Web Design Certification**.
 [View Live Terminal](https://JosueVasque2305.github.io/Feature-Selection-Page-FCC/)
 
 ## 📸 Preview
-![Pip-Boy Interface Preview](https://images.unsplash.com/photo-1542831371-29b0f74f9713?q=80&w=600&auto=format&fit=crop) *(Note: You can replace this later with a real screenshot of your page)*
+![Pip-Boy Interface Preview](assets/pipboy-gift/gif)
 
 ## 🛠️ Tech Stack & Features
 - **Semantic HTML5:** Structuring clean component layouts for technical forms.
