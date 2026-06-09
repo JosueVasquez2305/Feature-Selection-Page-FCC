@@ -10,8 +10,9 @@ Built as part of the **freeCodeCamp Responsive Web Design Certification**.
 
 [View Live Terminal](https://JosueVasque2305.github.io/Feature-Selection-Page-FCC/)
 
-## 📸 Preview
-![Pip-Boy Interface Preview](assets/pipboy-gift.gif/)
+
+## 📸 Preview!
+[Pip-Boy Interface Preview](assets/pipboy-gift.gif/)
 
 ## 🛠️ Tech Stack & Features
 - **Semantic HTML5:** Structuring clean component layouts for technical forms.
@@ -30,5 +31,5 @@ Built as part of the **freeCodeCamp Responsive Web Design Certification**.
 - **Solution:** Optimized the layout footprint by switching to `display: table`. This unique formatting context maintains the vertical stacking flow of standard block components while forcing the element's width to strictly hug its internal text and input nodes.
 
 ## ✒️ Author
-- GitHub - [@your-username](https://github.com/JosueVasquez2305)
-- freeCodeCamp - [@your-username](https://www.freecodecamp.org/JosueVasquez)
+- GitHub - [@JosueVasquez2305](https://github.com/JosueVasquez2305)
+- freeCodeCamp - [@fcc-josuevasquez](https://www.freecodecamp.org/fcc-josuevasquez)
