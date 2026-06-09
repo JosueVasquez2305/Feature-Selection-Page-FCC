@@ -6,7 +6,7 @@ Built as part of the **freeCodeCamp Responsive Web Design Certification**.
 
 ## 🚀 Live Demo
 *Include your GitHub Pages link here once deployed, e.g.:*
-[View Live Terminal](https://your-username.github.io/your-repository-name/)
+[View Live Terminal](https://JosueVasque2305.github.io/Feature-Selection-Page-FCC/)
 
 ## 📸 Preview
 ![Pip-Boy Interface Preview](https://images.unsplash.com/photo-1542831371-29b0f74f9713?q=80&w=600&auto=format&fit=crop) *(Note: You can replace this later with a real screenshot of your page)*
@@ -28,5 +28,5 @@ Built as part of the **freeCodeCamp Responsive Web Design Certification**.
 - **Solution:** Optimized the layout footprint by switching to `display: table`. This unique formatting context maintains the vertical stacking flow of standard block components while forcing the element's width to strictly hug its internal text and input nodes.
 
 ## ✒️ Author
-- GitHub - [@your-username](https://github.com/your-username)
-- freeCodeCamp - [@your-username](https://www.freecodecamp.org/your-username)
+- GitHub - [@your-username](https://github.com/JosueVasquez2305)
+- freeCodeCamp - [@your-username](https://www.freecodecamp.org/JosueVasquez)
