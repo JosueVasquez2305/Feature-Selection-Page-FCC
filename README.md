@@ -8,9 +8,6 @@ Built as part of the **freeCodeCamp Responsive Web Design Certification**.
     [Live demo click here](https://JosueVasquez2305.github.io/Feature-Selection-Page-FCC/)
 
 
-[View Live Terminal](https://JosueVasque2305.github.io/Feature-Selection-Page-FCC/)
-
-
 ## 📸 Preview
 
 ![Pip-Boy Interface Preview](assets/pipboy-gift.gif/)
