@@ -5,11 +5,13 @@ An interactive, retro-futuristic terminal interface inspired by the iconic **Pip
 Built as part of the **freeCodeCamp Responsive Web Design Certification**.
 
 ## 🚀 Live Demo
-*Include your GitHub Pages link here once deployed, e.g.:*
+    [Live demo click here](https://josuevasquez2305.github.io/Feature-Selection-Page-FCC/)
+
+
 [View Live Terminal](https://JosueVasque2305.github.io/Feature-Selection-Page-FCC/)
 
 ## 📸 Preview
-![Pip-Boy Interface Preview](assets/pipboy-gift/gif)
+![Pip-Boy Interface Preview](assets/pipboy-gift.gif/)
 
 ## 🛠️ Tech Stack & Features
 - **Semantic HTML5:** Structuring clean component layouts for technical forms.
